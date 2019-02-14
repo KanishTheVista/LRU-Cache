@@ -45,9 +45,11 @@ int main() {
 	obj.Insert(13);
 	
 	obj.Insert(14);
-		obj.Insert(3);
+	
+	obj.Insert(3);
 	
 	obj.Insert(1);
+	
 	obj.Display();
 	
 	return 0;
